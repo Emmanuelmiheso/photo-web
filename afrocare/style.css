@@ -108,3 +108,8 @@ footer p {
 .button:hover{
     color:red;
 }
+.images{
+    text-align: center;
+    justify-content: space-around;
+}
+
