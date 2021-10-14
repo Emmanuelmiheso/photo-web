@@ -1,6 +1,4 @@
 # photo-web
-[9:35 am, 14/10/2021] +254 10793501: # Photo-web
- 
 ##### By Emmanuel Miheso
 ### This is a description of my website
 
